@@ -3,15 +3,15 @@
  * @author Arthouuur
  * @version 1.2
  * @description MineDisney theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.gitlab.io
+ * @source https://github.com/art76urtan/MineDisneyTheme
+ * @website https://www.minedisney.com
  * @invite dHaSxn3
  */
 
-/* Credits to Arthouuur for making the original theme. */
+/* Credits to ClearVision for making the original theme. */
 
 /* IMPORT CSS */
-@import url(https://clearvision.gitlab.io/v6/main.css);
+@import url(https://github.com/art76urtan/MineDisneyTheme/blob/main/main.scss);
 
 /* SETTINGS */
 :root {
